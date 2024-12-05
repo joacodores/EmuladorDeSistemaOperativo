@@ -1,6 +1,6 @@
 El proyecto fue desarrollado bajo un marco academico, como proyecto final de la materia "sistemas operativos" de la universidad de Quilmes, en la carrera tecnicatura en programación informatica. 
 
-Este proyecto es un Emulador de sistema operativo desarrollado en Python que simula el comportamiento de un sistema operativo básico en consola. 
+Este proyecto es un **Emulador de sistema operativo** desarrollado en **Python** que simula el comportamiento de un sistema operativo básico en consola. 
 Su objetivo principal es ilustrar cómo funcionan los componentes esenciales de un sistema operativo y cómo interactúan entre sí.  
 
 Durante la ejecución, el sistema muestra en la consola el estado de la memoria, la ejecución de instrucciones de los programas cargados y, cada cierto tiempo, genera un diagrama de Gantt para visualizar el
